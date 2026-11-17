@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GameWallet.Api/GameWallet.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GameWallet.Tests/GameWallet.Tests.csproj" />
+  </Folder>
+</Solution>
